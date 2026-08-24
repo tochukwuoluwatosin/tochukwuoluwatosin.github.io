@@ -13,13 +13,13 @@ repository               : "tochukwuoluwatosin/tochukwuoluwatosin.github.io"
 author:
   # Biographic information
   avatar           : "profile.png" # You can upload a headshot with this filename later
-  name             : "Tochukwu Oluwatosin"
-  pronouns         : # example: "he/him" or "she/her"  
+  name             : "Tochukwu Oluwatosin Maduka"
+  pronouns         : "he/him"  
   bio              : "PhD Candidate in Materials Science (Graduating Sept 2026). Researching advanced materials, characterization, and synthesis."
-  location         : "Your University / City"
+  location         : "Saitama University / Saitama"
   employer         : "Department of Materials Science"
   uri              : # Optional personal link
-  email            : "your.email@university.edu" # Replace with your real email
+  email            : "tochukwumaduka.edu@gmail.com" # Replace with your real email
 
   # Academic profile links (Paste your actual URLs inside quotes if you have them)
   googlescholar    : "" # e.g. "https://scholar.google.com/citations?user=..."
