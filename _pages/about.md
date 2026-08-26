@@ -15,6 +15,8 @@ My research focuses on elucidating the molecular mechanisms of pollutant-induced
 On this website, I present my scientific research, list my full publication records, and share updates on my academic activities.
 
 ---
+*📍 **Availability:** Open for Postdoctoral and Industry R&D positions starting **September 21, 2026**.*
+
 
 ### Research Interests
 
@@ -93,6 +95,5 @@ My research goal is to establish a comprehensive, predictive framework for asses
 
 
 
-*📍 **Availability:** Open for Postdoctoral and Industry R&D positions starting **September 21, 2026**.*
 
 
