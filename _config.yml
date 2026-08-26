@@ -1,53 +1,35 @@
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Options: "default", "air", "sunrise", "mint", "dirt", "contrast"
+site_theme               : "default"
 title                    : "Tochukwu Oluwatosin Maduka, PhD Candidate"
 title_separator          : "-"
 name                     : &name "Tochukwu Oluwatosin Maduka"
-description              : &description "Tochukwu Oluwatosin Maduka- PhD Candidate in Materials Science portfolio and research site"
+description              : &description "Materials Scientist | Environmental Biophysics & Computational Chemistry"
 url                      : "https://tochukwuoluwatosin.github.io"
 baseurl                  : ""
 repository               : "tochukwuoluwatosin/tochukwuoluwatosin.github.io"
 
 # Site Author - Sidebar Details
-  # Biographic information
+author:
   avatar           : "profile.png"
   name             : "Tochukwu O. Maduka"
   pronouns         : "he/him"
-  bio              : "PhD Candidate in Materials Science at Saitama University (MEXT Scholar)[span_1](start_span)[span_1](end_span). Researching functional nanomaterials, computational chemistry, and environmental exposure science[span_2](start_span)[span_2](end_span)."
-  location         : "Saitama, Japan[span_3](start_span)"[span_3](end_span)
-  employer         : "Saitama University[span_4](start_span)"[span_4](end_span)
-  email            : "maduka.t.o.205@ms.saitama-u.ac.jp[span_5](start_span)"[span_5](end_span)
+  bio              : "PhD Candidate in Materials Science at Saitama University (MEXT Scholar)[span_0](start_span)[span_0](end_span)."
+  location         : "Saitama, Japan[span_1](start_span)"[span_1](end_span)
+  employer         : "Saitama University[span_2](start_span)"[span_2](end_span)
+  email            : "maduka.t.o.205@ms.saitama-u.ac.jp[span_3](start_span)"[span_3](end_span)
 
-  # Academic websites & Citation links
+  # Academic Profiles
   googlescholar    : "https://scholar.google.com/citations?user=rXxSkukAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0001-6002-2656"
   researchgate     : "https://www.researchgate.net/profile/Tochukwu-Maduka"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56426541800[span_6](start_span)"[span_6](end_span)
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56426541800[span_4](start_span)"[span_4](end_span)
 
-  # Repositories and professional networks
+  # Code & Social Profiles
   github           : "tochukwuoluwatosin"
   linkedin         : "tochukwu-oluwatosin-maduka-3b68b1100"
-  facebook         : "tochukwu.maduka.1422"
 
-# Publication Categories
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
-
-# Site Settings
-teaser                   : 
-breadcrumbs              : false
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled"
-talkmap_link             : false
-
-# Collections
+# Collections Configuration
 collections:
   teaching:
     output: true
@@ -62,56 +44,13 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-
 # System & Engine Settings
 sass:
   sass_dir: _sass
   style: compressed
 
 permalink: /:categories/:title/
-timezone: Etc/UTC
+timezone: Asia/Tokyo
 
 plugins:
   - jekyll-feed
