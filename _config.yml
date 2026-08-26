@@ -9,25 +9,23 @@ baseurl: ""
 repository: "tochukwuoluwatosin/tochukwuoluwatosin.github.io"
 
 author:
-  avatar: "profile.png"
-  name: "Tochukwu O. Maduka"
-  pronouns: "he/him"
-  bio: "PhD Candidate in Materials Science at Saitama University (MEXT Scholar)."
-  location: "Saitama, Japan"
-  employer: "Saitama University"
-  email: "maduka.t.o.205@ms.saitama-u.ac.jp"
-  uri: "https://tochukwuoluwatosin.github.io"
+  avatar: profile.png
+  name: Tochukwu O. Maduka
+  pronouns: he/him
+  bio: PhD Candidate in Materials Science at Saitama University (MEXT Scholar).
+  location: Saitama, Japan
+  employer: Saitama University
+  email: maduka.t.o.205@ms.saitama-u.ac.jp
+  uri: https://tochukwuoluwatosin.github.io
 
-  # Academic Profiles (Full URLs expected by template)
-  googlescholar: "https://scholar.google.com/citations?user=rXxSkukAAAAJ&hl=en"
-  orcid: "https://orcid.org/0000-0001-6002-2656"
-  researchgate: "https://www.researchgate.net/profile/Tochukwu-Maduka"
-  scopus: "https://www.scopus.com/authid/detail.uri?authorId=56426541800"
+  googlescholar: https://scholar.google.com/citations?user=rXxSkukAAAAJ&hl=en
+  orcid: https://orcid.org/0000-0001-6002-2656
+  researchgate: https://www.researchgate.net/profile/Tochukwu-Maduka
+  scopus: https://www.scopus.com/authid/detail.uri?authorId=56426541800
 
-  # Social & Code Profiles (Usernames only — template appends domains)
-  github: "tochukwuoluwatosin"
-  linkedin: "tochukwu-oluwatosin-maduka-3b68b1100"
-  facebook: "tochukwu.maduka.1422"
+  github: tochukwuoluwatosin
+  linkedin: tochukwu-oluwatosin-maduka-3b68b1100
+  facebook: tochukwu.maduka.1422
 
 collections:
   teaching:
