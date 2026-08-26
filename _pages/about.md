@@ -91,6 +91,9 @@ My research goal is to establish a comprehensive, predictive framework for asses
 24. Ohiagu, F.O., Chikezie, P.C., Maduka, T.O., Enyoh, C.E., Chikezie, C.M. Bioactive Compounds and Medicinal Usefulness of Edible Leaves of Vernonia amygdalina, Ocimum gratissimum, Piper guineense and Gongronema latifolium. *SAJ Pharma & Pharmacology* 7, 101 (2021).
 25. Ikpa, C.B.C., Maduka, T.O., Enyoh, C.E., Ikezu, U.J.M. Potential Plants for the Treatment and Management of COVID-19 in Nigeria. *Academic J. Chemistry* 5(6), 69–80 (2020).
 
-*📍 **Availability:** Open for Postdoctoral and Industry R&D positions starting **September 21, 2026**[span_12](start_span)[span_12](end_span).*
+
+
+*📍 **Availability:** Open for Postdoctoral and Industry R&D positions starting **September 21, 2026**(start_span)(end_span).*
+
 
 
