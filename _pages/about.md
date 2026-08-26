@@ -18,7 +18,7 @@ On this website, I present my scientific research, list my full publication reco
 
 ### Research Interests
 
-* Advanced Functional Materials & Biosensing: Synthesis (CQDs, NADES, Hydrothermal, Column Chromatography) and multi-scale characterization.
+* Advanced Functional Materials & Biosensing: Synthesis (CQDs, NADES) and multi-scale characterization.
 * Computational Biophysics & Modeling: Density Functional Theory (Gaussian, ORCA, Material Studio), Molecular Dynamics (GROMACS, NAMD, LAMMPS), and Molecular Docking (AutoDock).
 * Environmental Health & Risk Assessment: Pollutant-protein interaction modeling, micro/nanoplastics toxicity, exposure science, and predictive ML models (scikit-learn).
 * Spectroscopic & Analytical Characterization: Fluorescence, UV-Vis, FTIR, Raman, NMR, LC-MS, DLS, TEM, SEM, XRD, and XPS.
@@ -27,17 +27,17 @@ On this website, I present my scientific research, list my full publication reco
 
 ### Education
 
-* PhD in Materials Science, 2023/09 – 2026/09 (Expected)  
+* PhD in Materials Science, 2026 (Expected)  
   *Saitama University, Japan*  
-  Dissertation: Molecular Environmental Modulation and Suppression of Cedar Pollen Allergens Interacted with Atmospheric Gaseous Pollutants and PET Microplastic Particles.
+  
 
-* MSc in Organic Chemistry, 2019/09 – 2021/11  
+* MSc in Organic Chemistry, 2021  
   *Imo State University, Nigeria*  
-  Thesis: Isolation, Characterization and Molecular Docking of Chemical Compounds from Zanthoxylum rhetsa Stem Bark.
+  
 
-* BSc in Pure Chemistry, 2011/09 – 2015/09  
+* BSc in Pure Chemistry,  2015  
   *Imo State University, Nigeria*  
-  Project: Extraction and Characterization of Bioactive Compounds from Persea americana Seed.
+  
 
 ---
 
