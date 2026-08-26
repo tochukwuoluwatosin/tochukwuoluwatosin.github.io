@@ -93,7 +93,6 @@ My research goal is to establish a comprehensive, predictive framework for asses
 
 
 
-*📍 **Availability:** Open for Postdoctoral and Industry R&D positions starting **September 21, 2026**(start_span)(end_span).*
-
+*📍 **Availability:** Open for Postdoctoral and Industry R&D positions starting **September 21, 2026**.*
 
 
