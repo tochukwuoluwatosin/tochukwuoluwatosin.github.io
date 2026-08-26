@@ -10,7 +10,6 @@ baseurl                  : ""
 repository               : "tochukwuoluwatosin/tochukwuoluwatosin.github.io"
 
 # Site Author - Sidebar Details
-author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Tochukwu O. Maduka"
