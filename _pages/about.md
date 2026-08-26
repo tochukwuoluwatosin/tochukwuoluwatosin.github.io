@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "Welcome to My Academic Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Welcome to My Academic Website
 
 I am a **Materials Scientist** completing my PhD at **Saitama University, Japan** (expected completion: September 18, 2026) supported by the Japanese Government **MEXT Doctoral Scholarship**[span_0](start_span)[span_0](end_span).
 
