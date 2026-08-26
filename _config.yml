@@ -1,4 +1,5 @@
 # Site Settings
+remote_theme             : "academicpages/academicpages.github.io"
 locale                   : "en-US"
 title                    : "Tochukwu Oluwatosin Maduka, PhD Candidate"
 title_separator          : "-"
@@ -16,7 +17,7 @@ talkmap_link             : false
 
 # Site Author
 author:
-  avatar           : "profile.jpg"
+  avatar           : "/images/profile.jpg"
   name             : "Tochukwu O. Maduka"
   pronouns         : "he/him"
   bio              : "PhD Candidate in Materials Science at Saitama University (MEXT Scholar)."
@@ -25,7 +26,7 @@ author:
   email            : "maduka.t.o.205@ms.saitama-u.ac.jp"
   uri              : "https://tochukwuoluwatosin.github.io"
 
-  # Academic Profiles (Enclosed in quotes to prevent YAML parsing failure)
+  # Academic Profiles
   googlescholar    : "https://scholar.google.com/citations?user=rXxSkukAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0001-6002-2656"
   researchgate     : "https://www.researchgate.net/profile/Tochukwu-Maduka"
@@ -35,6 +36,15 @@ author:
   github           : "tochukwuoluwatosin"
   linkedin         : "tochukwu-oluwatosin-maduka-3b68b1100"
   facebook         : "tochukwu.maduka.1422"
+
+# Page Defaults Configuration
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
 
 # Collections Configuration
 collections:
@@ -51,6 +61,12 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+# Include / Exclude Settings
+include:
+  - _pages
+  - _includes
+  - _layouts
+
 # Outputting
 permalink: /:categories/:title/
 timezone: Asia/Tokyo
@@ -63,6 +79,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-remote-theme
 
 whitelist:
   - jekyll-feed
@@ -71,3 +88,4 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-remote-theme
