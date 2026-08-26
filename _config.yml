@@ -19,11 +19,13 @@ author:
   employer         : "Saitama University"
   email            : "maduka.t.o.205@ms.saitama-u.ac.jp"
 
+  # Academic Profiles
   googlescholar    : "https://scholar.google.com/citations?user=rXxSkukAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0001-6002-2656"
   researchgate     : "https://www.researchgate.net/profile/Tochukwu-Maduka"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56426541800"
 
+  # Code & Social Profiles
   github           : "tochukwuoluwatosin"
   linkedin         : "tochukwu-oluwatosin-maduka-3b68b1100"
 
