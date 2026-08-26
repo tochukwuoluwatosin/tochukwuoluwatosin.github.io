@@ -1,5 +1,4 @@
 # Site Settings
-remote_theme             : "academicpages/academicpages.github.io"
 locale                   : "en-US"
 title                    : "Tochukwu Oluwatosin Maduka, PhD Candidate"
 title_separator          : "-"
@@ -79,7 +78,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  - jekyll-remote-theme
 
 whitelist:
   - jekyll-feed
@@ -88,4 +86,3 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  - jekyll-remote-theme
