@@ -20,7 +20,7 @@ On this website, I present my scientific research, list my full publication reco
 
 * Advanced Functional Materials & Biosensing: Synthesis (CQDs, NADES) and multi-scale characterization.
 * Computational Biophysics & Modeling: Density Functional Theory (Gaussian, ORCA, Material Studio), Molecular Dynamics (GROMACS, NAMD, LAMMPS), and Molecular Docking (AutoDock).
-* Environmental Health & Risk Assessment: Pollutant-protein interaction modeling, micro/nanoplastics toxicity, exposure science, and predictive ML models (scikit-learn).
+* Environmental Health & Risk Assessment: Pollutant-protein interaction modeling, micro/nanoplastics toxicity, exposure science, and predictive ML models.
 * Spectroscopic & Analytical Characterization: Fluorescence, UV-Vis, FTIR, Raman, NMR, LC-MS, DLS, TEM, SEM, XRD, and XPS.
 
 ---
@@ -54,7 +54,7 @@ My research goal is to establish a comprehensive, predictive framework for asses
 
 ---
 
-### Selected Presentations
+### Presentations
 
 * 2026: 4th Intl. Online Conf. on Materials (Poster)
 * 2023: Environmental Research Conf., Saitama Univ. (Oral)
@@ -63,7 +63,7 @@ My research goal is to establish a comprehensive, predictive framework for asses
 
 ---
 
-### Publications (25)
+### Publications 
 
 1. Maduka, T.O., Wang, Q., Enyoh, C.E., Suzuki, M., Wang, W., Rana, M.S. Polyethylene Terephthalate Micro/Nanoplastics Induce Structural and Conformational Changes in Cedar Pollen Proteins: Spectroscopic and Molecular Dynamics Evidence. *Applied Sciences* 16(3), 1577 (2026).
 2. Maduka, T.O., Wang, Q., Suzuki, M., Enyoh, C.E., Wang, W., Rana, M.S. Hydrophobic Natural Deep Eutectic Solvents for Extraction of Bioactive Compounds: Multiscale Characterization, Quantum Simulations, and Molecular Interaction Studies with Cry j 1 and Amb a 1 Allergens. *Separations* 12(8), 214 (2025).
@@ -90,3 +90,7 @@ My research goal is to establish a comprehensive, predictive framework for asses
 23. Ikezu, U.J.M., Ugariogu, S.N., Ikpa, C.B.C., Adindu, B.C., Maduka, T.O. In Silico Determination of Anti-Cancer Activity of Phytochemicals from Clove (Syzygium aromaticum) Seed. *J. Chem. Soc. Nigeria* 48(4) (2023).
 24. Ohiagu, F.O., Chikezie, P.C., Maduka, T.O., Enyoh, C.E., Chikezie, C.M. Bioactive Compounds and Medicinal Usefulness of Edible Leaves of Vernonia amygdalina, Ocimum gratissimum, Piper guineense and Gongronema latifolium. *SAJ Pharma & Pharmacology* 7, 101 (2021).
 25. Ikpa, C.B.C., Maduka, T.O., Enyoh, C.E., Ikezu, U.J.M. Potential Plants for the Treatment and Management of COVID-19 in Nigeria. *Academic J. Chemistry* 5(6), 69–80 (2020).
+
+*📍 **Availability:** Open for Postdoctoral and Industry R&D positions starting **September 21, 2026**[span_12](start_span)[span_12](end_span).*
+
+
