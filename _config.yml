@@ -1,32 +1,42 @@
-locale: "en-US"
-site_theme: "default"
-title: "Tochukwu Oluwatosin Maduka, PhD Candidate"
-title_separator: "-"
-name: &name "Tochukwu Oluwatosin Maduka"
-description: "Materials Scientist | Environmental Biophysics"
-url: "https://tochukwuoluwatosin.github.io"
-baseurl: ""
-repository: "tochukwuoluwatosin/tochukwuoluwatosin.github.io"
+# Site Settings
+locale                   : "en-US"
+title                    : "Tochukwu Oluwatosin Maduka, PhD Candidate"
+title_separator          : "-"
+name                     : &name "Tochukwu Oluwatosin Maduka"
+description              : "Materials Scientist | Environmental Biophysics"
+url                      : "https://tochukwuoluwatosin.github.io"
+baseurl                  : ""
+repository               : "tochukwuoluwatosin/tochukwuoluwatosin.github.io"
+teaser                   : 
+breadcrumbs              : false
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled"
+talkmap_link             : false
 
+# Site Author
 author:
-  avatar: profile.png
-  name: Tochukwu O. Maduka
-  pronouns: he/him
-  bio: PhD Candidate in Materials Science at Saitama University (MEXT Scholar).
-  location: Saitama, Japan
-  employer: Saitama University
-  email: maduka.t.o.205@ms.saitama-u.ac.jp
-  uri: https://tochukwuoluwatosin.github.io
+  avatar           : "https://tochukwuoluwatosin.github.io/profile.png"
+  name             : "Tochukwu O. Maduka"
+  pronouns         : "he/him"
+  bio              : "PhD Candidate in Materials Science at Saitama University (MEXT Scholar)."
+  location         : "Saitama, Japan"
+  employer         : "Saitama University"
+  email            : "maduka.t.o.205@ms.saitama-u.ac.jp"
+  uri              : "https://tochukwuoluwatosin.github.io"
 
-  googlescholar: https://scholar.google.com/citations?user=rXxSkukAAAAJ&hl=en
-  orcid: https://orcid.org/0000-0001-6002-2656
-  researchgate: https://www.researchgate.net/profile/Tochukwu-Maduka
-  scopus: https://www.scopus.com/authid/detail.uri?authorId=56426541800
+  # Academic Profiles (Enclosed in quotes to prevent YAML parsing failure)
+  googlescholar    : "https://scholar.google.com/citations?user=rXxSkukAAAAJ&hl=en"
+  orcid            : "https://orcid.org/0000-0001-6002-2656"
+  researchgate     : "https://www.researchgate.net/profile/Tochukwu-Maduka"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56426541800"
 
-  github: tochukwuoluwatosin
-  linkedin: tochukwu-oluwatosin-maduka-3b68b1100
-  facebook: tochukwu.maduka.1422
+  # Social & Code Handles
+  github           : "tochukwuoluwatosin"
+  linkedin         : "tochukwu-oluwatosin-maduka-3b68b1100"
+  facebook         : "tochukwu.maduka.1422"
 
+# Collections Configuration
 collections:
   teaching:
     output: true
@@ -41,9 +51,11 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+# Outputting
 permalink: /:categories/:title/
 timezone: Asia/Tokyo
 
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-gist
