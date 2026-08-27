@@ -20,8 +20,8 @@ On this website, I present my scientific research, list my full publication reco
 
 ### Research Interests
 
-* Advanced Functional Materials & Biosensing: Synthesis (CQDs, NADES) and multi-scale characterization.
-* Computational Biophysics & Modeling: Density Functional Theory (Gaussian, ORCA, Material Studio), Molecular Dynamics (GROMACS, NAMD, LAMMPS), and Molecular Docking (AutoDock).
+* Advanced Functional Materials & Biosensing: Synthesis and multi-scale characterization.
+* Computational Biophysics & Modeling: Density Functional Theory, Molecular Dynamics, and Molecular Docking.
 * Environmental Health & Risk Assessment: Pollutant-protein interaction modeling, micro/nanoplastics toxicity, exposure science, and predictive ML models.
 * Spectroscopic & Analytical Characterization: Fluorescence, UV-Vis, FTIR, Raman, NMR, LC-MS, DLS, TEM, SEM, XRD, and XPS.
 
